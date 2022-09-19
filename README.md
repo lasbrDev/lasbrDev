@@ -19,11 +19,11 @@
   <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-</div> <br />
+</div>
 
 ### Tools:
 
-<div style="display:inline-block"><br />
+<div style="display:inline-block">
 
   <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img align="center" alt="manjaro linux" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
@@ -33,11 +33,11 @@
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/><br /><br />
   <img align="center" alt="microsoft office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 
-</div><br />
+</div>
 
 ### Other Knowledge:
 
-<div style="display: inline-block"><br />
+<div style="display: inline-block">
 
 <img  align="center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img  align="center" alt="sql" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <br/><br/>
