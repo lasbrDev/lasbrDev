@@ -1,16 +1,24 @@
-### Hello! I'm Luciano Alves 🤙 💻
+## Hello! I'm Luciano Alves 🤙 💻
+
+### About me:
 
 <br/>
+
+<div style="display:inline-block">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasbrdev/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/5513997445563)<br/><br/>
 
+</div>
+
+### GitHub Analytics:
+
 ![lasbrDev GitHub stats](https://github-readme-stats.vercel.app/api?username=lasbrDev&show_icons=true&theme=dracula)
 
 ### Main skills:
 
-<div style="display: inline-block">
+<div style="display:inline-block">
 
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
