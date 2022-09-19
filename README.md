@@ -2,15 +2,15 @@
 
 ### About me:
 
-<br/>
+<p>Currently performing technological functions in a chemical laboratory, implementing processes that optimize the flow of data and results. Extensive experience in controls and statistical processes, management and audits of quality systems. Development of technological solutions together with the IT team, facilitating the insertion and subsequent consultation of data, improving the response time for collecting information.</p>
 
-<div style="display:inline-block">
+### Main contacts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasbrdev/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/5513997445563)<br/><br/>
 
-</div>
+
 
 ### GitHub Analytics:
 
