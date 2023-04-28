@@ -3,7 +3,8 @@
 ### About me:
 
 <p>Hi, my name is Luciano Alves and I'm a Junior Backend Developer focusing on NodeJS and Java. I have knowledge in ReactJS and Springboot, which allows me to contribute to complete projects, from backend development to frontend implementation.</p>
-<p>In addition, I have been a Linux user and contributor since 2012, which allows me to have a deeper knowledge of operating systems and makes my work more complete in technology projects.<p/>
+<p>In addition, I have been a Linux user and contributor since 2012, which allows me to have a deeper knowledge of operating systems and makes my work more complete in technology projects.</p>
+<p>I am currently studying Bachelor of Software Engineering, where I am improving my technical skills and acquiring new knowledge in the area of technology. I am passionate about programming and believe that continuous learning is essential for a successful developer career.</p>
 
 
 ### Main contacts:
