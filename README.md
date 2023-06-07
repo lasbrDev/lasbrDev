@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Luciano Alves 🤙 💻</h1>
 
 
-<h3 align="center">A backend developer, who loves to develop software for humans and play RPG Board Games. You're welcome, let's talk! </h3><br>
+<h3 align="justify">A backend developer, who loves to develop software for humans and play RPG Board Games. You're welcome, let's talk! </h3><br>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=lasbrDev alt=lasbrDev/> </p><br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=lasbrDev alt=lasbrDev/> </p>
 
 
 - 📫 Reach me at **lasbr_alves@outlook.com.com**
