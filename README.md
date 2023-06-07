@@ -6,7 +6,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=lasbrDev alt=lasbrDev/> </p>
 
 
-- 📫 Reach me at **lasbr_alves@outlook.com.com**
+- 📫 Reach me at **lasbr_alves@outlook.com**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasbrdev/)
 
