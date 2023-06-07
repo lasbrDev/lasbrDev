@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Luciano Alves 🤙 💻</h1>
 
 
-<h3 align="center">A backend developer, who loves to develop software for humans and play rpg board games. You can come, let's talk about! 🇧🇷</h3><br>
+<h3 align="center">A backend developer, who loves to develop software for humans and play RPG Board Games. You're welcome, let's talk! </h3><br>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=lasbrDev alt=lasbrDev/> </p><br><br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=lasbrDev alt=lasbrDev/> </p><br>
 
 
 - 📫 Reach me at **lasbr_alves@outlook.com.com**
@@ -18,7 +18,7 @@
 
 ### About me:
 
-<p>I'm from Brazil and I'm currently developing solutions to improve and impact people's lives.</p>
+<p>I'm from Brazil 🇧🇷 and I'm currently developing solutions to improve and impact people's lives.</p>
 <p>I really love developing backend apps, but I'm also interested in frontend.</p>
 <p>Linux lover and open source concept.</p>
 <p>I'm currently graduating at <a href="https://www.unoeste.br/graduacao/faculdade-de-engenharia-software-ead">Unoeste</a> - Software Engineering</p><br>
