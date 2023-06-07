@@ -18,10 +18,10 @@
 
 ### About me:
 
-<p>I'm from Brazil 🇧🇷 and I'm currently developing solutions to improve and impact people's lives.</p>
-<p>I really love developing backend apps, but I'm also interested in frontend.</p>
-<p>Linux lover and open source concept.</p>
-<p>I'm currently graduating at <a href="https://www.unoeste.br/graduacao/faculdade-de-engenharia-software-ead">Unoeste</a> - Software Engineering</p><br>
+- I'm from Brazil 🇧🇷 and I'm currently developing solutions to improve and impact people's lives.
+- I really love developing backend apps, but I'm also interested in frontend.
+- I'm a lover of Linux and the concept of open source.
+- I'm currently graduating at <a href="https://www.unoeste.br/graduacao/faculdade-de-engenharia-software-ead">Unoeste</a> - Software Engineering
 
  ### GitHub Analytics:
 
