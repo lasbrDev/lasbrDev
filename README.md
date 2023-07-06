@@ -24,9 +24,10 @@
 - I'm currently graduating at <a href="https://www.unoeste.br/graduacao/faculdade-de-engenharia-software-ead">Unoeste</a> - Software Engineering
 
  ### GitHub Analytics:
-
-
-![lasbrDev GitHub stats](https://github-readme-stats.vercel.app/api?username=lasbrDev&show_icons=true&theme=dracula)
+<br>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lasbrDev&show_icons=true&theme=dracula" />
+</a></p><br><br><br><br><br><br><br><br><br>
 
 ### Main skills:
 
