@@ -3,19 +3,26 @@
 
 <h3 align="justify">A software developer who loves to code and build software for humans. Also, I love play RPG board games. You're welcome, let's talk! </h3><br>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=lasbrDev alt=lasbrDev/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lasbrdev&label=Profile%20views&color=0e75b6&style=flat" alt="lasbrdev" /> </p>
 
+- 🔭 I’m currently working on **my personal projects.**
 
-- 📫 Reach me at **lasbr_alves@outlook.com**
+- 🌱 I’m currently learning **java with Springboot.**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasbrdev/)
+- 👯 I’m looking to collaborate on **java or open source projects.**
 
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/5513997445563)<br/><br/>
+- 👨‍💻 All of my projects are available at [lasbrDev](www.github.com/lasbrDev?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [lasbrDev](https://github.com/lasbrDev?tab=repositories)
+- 📫 How to reach me **lasbr_alves@outlook.com**
 
-
-
+<br>
+<h3 align="left">Connect with me:</h3>
+<br>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lasbrdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lasbrdev/" height="30" width="40" /></a>
+</p>
+<br>
+ 
 ### About me:
 
 - I'm from Brazil 🇧🇷 and I'm currently developing solutions to improve and impact people's lives.
@@ -24,13 +31,13 @@
 - I'm currently graduating at <a href="https://www.unoeste.br/graduacao/faculdade-de-engenharia-software-ead">Unoeste</a> - Software Engineering
 
  ### GitHub Analytics:
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lasbrdev&show_icons=true&theme=dracula" alt="lasbrdev" />
+</p>
 <br>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lasbrDev&show_icons=true&theme=dracula" />
-</a></p><br><br><br><br><br><br><br><br><br>
 
 ### Main skills:
-
+<br>
 <div aling="center" style="display:inline-block">
 
  <p>
@@ -42,7 +49,7 @@
 </div>
 
 ### Tools:
-
+<br>
 <div style="display:inline-block">
   <p>
     <a href="https://skillicons.dev">
@@ -52,7 +59,7 @@
 </div>
 
 ### Other Knowledge:
-
+<br>
 <div style="display: inline-block">
   
   <p>
@@ -62,3 +69,9 @@
   </p>  
 
 </div>
+
+### Languages:
+<br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasbrDev&layout=compact&bg_color=black" alt="lasbrdev" />
+</p>
