@@ -28,7 +28,7 @@
 - I'm currently graduating at <a href="https://www.unoeste.br/graduacao/faculdade-de-engenharia-software-ead">Unoeste</a> - Software Engineering
 
  ### GitHub Analytics:
- <br>
+
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lasbrdev&show_icons=true&theme=dracula" alt="lasbrdev" />
 </p>
