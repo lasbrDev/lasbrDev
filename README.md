@@ -71,5 +71,5 @@
 ### Languages:
 <br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasbrDev&layout=compact&bg_color=black" alt="lasbrdev" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasbrDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&theme=dracula" alt="lasbrdev" />
 </p>
