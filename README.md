@@ -31,7 +31,7 @@
 
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lasbrdev&show_icons=true&theme=dracula" alt="lasbrdev" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lasbrdev&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github" alt="lasbrdev" />
 </p>
 
 ### Main skills:
