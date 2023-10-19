@@ -40,7 +40,7 @@
 
  <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,nest,next,java,spring" />
+      <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript" />
     </a>
   </p>  
 
