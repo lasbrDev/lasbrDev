@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasbrdev&label=Profile%20views&color=0e75b6&style=flat" alt="lasbrdev" /> </p>
 
-- 🔭 I’m currently working on **my personal projects.**
+- 🔭 I am currently working on **collaborative projects** and **my personal projects.**
 
 - 🌱 I’m currently learning **java with Springboot.**
 
-- 👯 I’m looking to collaborate on **java or open source projects.**
+- 👯 I want to collaborate on **Java or open source projects** and **get a job** too.
 
 - 👨‍💻 All of my projects are available at [lasbrDev](www.github.com/lasbrDev?tab=repositories)
 
@@ -42,7 +42,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript" />
     </a>
-  </p>  
+  </p>
 
 </div>
 
@@ -51,9 +51,9 @@
 <div style="display:inline-block">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,vscode,idea,git,github,gitlab,postman,vim" />
+      <img src="https://skillicons.dev/icons?i=linux,bash,vscode,idea,eclipse,git,github,gitlab,postman,vim" />
     </a>
-  </p>  
+  </p>
 </div>
 
 ### Other Knowledge:
