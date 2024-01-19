@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **java with Springboot.**
 
-- 👯 I want to collaborate on **Java or open source projects** and **get a job** too.
+- 👯 My goal is to contribute to **Java or open source projects** and secure a **job opportunity**.
 
 - 👨‍💻 All of my projects are available at [lasbrDev](www.github.com/lasbrDev?tab=repositories)
 
