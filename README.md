@@ -7,9 +7,7 @@
 
 - 🔭 I am currently working on **collaborative projects** and **my personal projects.**
 
-- 🌱 I’m currently learning **java with Springboot.**
-
-- 👯 My goal is to contribute to **Java or open source projects** and secure a **job opportunity**.
+- 🌱 I’m a **java (Springboot)** developer exploring DevOps tools and practices to enhance software development processes.
 
 - 👨‍💻 All of my projects are available at [lasbrDev](www.github.com/lasbrDev?tab=repositories)
 
@@ -24,8 +22,8 @@
 
 - I'm from Brazil 🇧🇷 and I'm currently developing solutions to improve and impact people's lives.
 - I really love developing backend apps, but I'm also interested in frontend.
-- I'm a lover of Linux and the concept of open source.
-- I'm currently graduating at <a href="https://www.unoeste.br/graduacao/faculdade-de-engenharia-software-ead">Unoeste</a> - Software Engineering
+- I'm a strong advocate for **Linux** and open-source software.
+- Currently pursuing a degree in <a href="https://www.unoeste.br/graduacao/faculdade-de-engenharia-software-ead">Software Engineering at Unoeste</a>
 
  ### GitHub Analytics:
 
@@ -40,7 +38,7 @@
 
  <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript" />
+      <img src="https://skillicons.dev/icons?i=java,spring,html,css,nodejs,angular" />
     </a>
   </p>
 
@@ -51,7 +49,7 @@
 <div style="display:inline-block">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,bash,vscode,idea,eclipse,git,github,gitlab,postman,vim" />
+      <img src="https://skillicons.dev/icons?i=linux,arch,bash,vscode,idea,eclipse,git,github,gitlab,postman,vim,neovim&perline=6" />
     </a>
   </p>
 </div>
@@ -62,7 +60,7 @@
   
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,kubernetes,aws" />
     </a>
   </p>  
 
