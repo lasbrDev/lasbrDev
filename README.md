@@ -38,7 +38,7 @@
 
  <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,html,css,nodejs,angular" />
+      <img src="https://skillicons.dev/icons?i=java,kotlin,spring,html,css,nodejs,angular" />
     </a>
   </p>
 
