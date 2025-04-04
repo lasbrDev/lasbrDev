@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasbrdev&label=Profile%20views&color=0e75b6&style=flat" alt="lasbrdev" /> </p>
 
-- 🔭 I am currently working on **collaborative projects** and **my personal projects.**
-
-- 🌱 I’m a **java (Springboot)** developer exploring DevOps tools and practices to enhance software development processes.
-
-- 👨‍💻 All of my projects are available at [lasbrDev](www.github.com/lasbrDev?tab=repositories)
+- 🔭 I am currently working as a **Java Development Consultant.**
 
 - 📫 How to reach me **lasbr_alves@outlook.com**
 
