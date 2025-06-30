@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasbrdev&label=Profile%20views&color=0e75b6&style=flat" alt="lasbrdev" /> </p>
 
-- 🔭 I am currently working as a **Java Development Consultant.**
+- 🔭 I am currently working as a **Java Development.**
 
 - 📫 How to reach me **lasbr_alves@outlook.com**
 
@@ -16,7 +16,7 @@
 
 ### About me:
 
-- I'm from Brazil 🇧🇷 and I'm currently developing solutions to improve and impact people's lives.
+- I'm from Brazil 🇧🇷.
 - I really love developing backend apps, but I'm also interested in frontend.
 - I'm a strong advocate for **Linux** and open-source software.
 - Currently pursuing a degree in <a href="https://www.unoeste.br/graduacao/faculdade-de-engenharia-software-ead">Software Engineering at Unoeste</a>
